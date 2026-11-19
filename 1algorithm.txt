@@ -1,0 +1,8 @@
+i) Start
+ii) Open web browser and click on profile at top right corner of page.
+iii) Enter your email id.
+iv) If email exists then go to enter password else show email does not exist and create new email.
+v) If password is correct click on login else click on forgot password
+vi) Once clicked on forgot password it will ask for registered phone number , send one time password.
+vii) Once verified , we can set new password and login.
+viii) End
