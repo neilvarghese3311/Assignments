@@ -1,0 +1,9 @@
+i). Start
+ii). Enter three number No.1, No.2 and No.3
+iii). Compare if No.1 is greater than No.2 (No.1 > No.2)
+iv). If true check if No.1 is also greater than No.3
+v). If true No.1 is largest number. Print No.1.
+vi). If false No.3 is largest number. Print No.3
+vii). If step no. (iii) is false check if No.2 is greater than No.3 (No.2 > No.3)
+viii). If true No.2 is the largest number else the largest is No.3
+ix). Stop
